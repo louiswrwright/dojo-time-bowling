@@ -1,0 +1,10 @@
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\obj\Debug\Dojo Time - Bowling Tests.csprojResolveAssemblyReference.cache
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\bin\Debug\Dojo Time - Bowling Tests.dll
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\bin\Debug\Dojo Time - Bowling Tests.pdb
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\bin\Debug\Dojo Time - Bowling.exe
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\bin\Debug\nunit.framework.dll
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\bin\Debug\Dojo Time - Bowling.pdb
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\bin\Debug\nunit.framework.xml
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\obj\Debug\Dojo Time - Bowling Tests.dll
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling Tests\obj\Debug\Dojo Time - Bowling Tests.pdb

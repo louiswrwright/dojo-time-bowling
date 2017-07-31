@@ -1,0 +1,6 @@
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling\bin\Debug\Dojo Time - Bowling.exe.config
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling\bin\Debug\Dojo Time - Bowling.exe
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling\bin\Debug\Dojo Time - Bowling.pdb
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling\obj\Debug\Dojo Time - Bowling.csprojResolveAssemblyReference.cache
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling\obj\Debug\Dojo Time - Bowling.exe
+C:\Users\louis.wright\Desktop\Dojo Time - Bowling\Dojo Time - Bowling\obj\Debug\Dojo Time - Bowling.pdb
